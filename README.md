@@ -1,4 +1,4 @@
-# OPS3: Ultrasonic Theremin
+# OPS 3: Ultrasonic Theremin
 
 TXST IEEE Student Branch, OPS Project #3.
 
@@ -10,7 +10,7 @@ Coming from [OPS2](https://github.com/IEEE-TXST/OPS_2)? You already know digital
 
 ## Session Goals
 
-By the end of today, every member will (hopefully):
+By the end of today, students will:
 
 - Improve their understanding of ultrasonic distance sensing
 - Improve their programming skills with timing and conversion logic
